@@ -1,0 +1,28 @@
+# JavaScript 스터디
+
+![image]()
+
+
+## 일정
+- [금] 13:00 ~ 18:00
+</br>
+
+## 수업 일정별 정리표(코드)
+
+|  일차  |          내용          |     소스코드      |
+|  :----: | :--------------------: | :---------------: |
+|  1일차  | 값 다루기(값과 리터럴, 변수, 식별자, 타입)              | [day01](https://choiyuran.notion.site/c94db3f3498d4c479512eb8b1be83cf0?pvs=4)|
+|  2일차  | 데이터 조회(SELECT)    | [day02](https://choiyuran.notion.site/select-86c7047756854f13900cd59216204e58?pvs=4) |
+|  3일차  | 객체 지향 프로그래밍(OOP) Part1  | [day03](https://github.com/choiyuran/study_java/tree/main/week02/oop) / [노션](https://choiyuran.notion.site/OOP-0e16aac9298541ada939686443e73a67?pvs=4) |
+|  4일차  | 집계함수(SUM, MAX, MIN, AVG, COUNT) / 중복 제거(DISTINCT)      | [day04](https://choiyuran.notion.site/SUM-MAX-MIN-AVG-COUNT-DISTINCT-4dcbf0e256d74631880809c8014f74a4?pvs=4) |
+|  5일차  | 객체 지향 프로그래밍(OOP) Part2 | [day05](https://github.com/choiyuran/study_java/tree/main/week03/oop2) / [노션](https://choiyuran.notion.site/OOP-Part2-c5627a46fcf148ffaa27727b0b71a0ca?pvs=4) |
+|  6일차  |  GROUP BY~HAVING                    | [day06](https://choiyuran.notion.site/GROUP-BY-HAVING-9376c8274f6e431abff499fffe29bb4f?pvs=4) |
+|  7일차  |  예외처리/java.lang패키지와 유용한 클래스   | [day07](https://choiyuran.notion.site/java-lang-90c6df571cb3498a8a3ffd95dfc6a546?pvs=4) |
+|  8일차  |  JOIN                | [day08](https://choiyuran.notion.site/JOIN-32762dbbf24c48eba8c377836f35bbb5?pvs=4) |
+|  9일차  |  날짜와 시간     | [day09](https://github.com/choiyuran/study_java/tree/main/week05/dateTime) / [노션](https://choiyuran.notion.site/2a10cb2c35ea431b89db35d1054e6e61?pvs=4) |
+|  10일차 |  STRING, DATE  | [day10](https://choiyuran.notion.site/STRING-DATE-00f3b934d5974674837f3dcc4b684335?pvs=4) |
+|  11일차 |  STRING, DATE (프로그래머스Lv.4)   | [day11](https://choiyuran.notion.site/STRING-DATE-00f3b934d5974674837f3dcc4b684335?pvs=4) 
+|  12일차 |  컬렉션 프레임워크   | [day12](https://github.com/choiyuran/study_java/tree/main/week06Collection) / [노션](https://choiyuran.notion.site/c43259fd22874e53894df008d7a674fd?pvs=4) |
+|  13일차 |  DDL, DML, DCL, TCL  | [day13](https://choiyuran.notion.site/DDL-DML-DCL-TCL-21b5edff9444424383f7568d83998a6f?pvs=4) 
+|  14일차 |  컬렉션 프레임워크2  | [day14](https://github.com/choiyuran/study_java/tree/main/week07Collection2) / [노션](https://choiyuran.notion.site/2-4938777720054cc2b1d2a41ceb89cf3d?pvs=4)
+|   15일차 |  제네릭스 & 열거형  | [day15](https://github.com/choiyuran/study_java/tree/main/week08) / [노션](https://choiyuran.notion.site/2-4938777720054cc2b1d2a41ceb89cf3d?pvs=4)
