@@ -12,7 +12,7 @@
 |  일차  |          내용          |     소스코드      |
 |  :----: | :--------------------: | :---------------: |
 |  1일차  | 값 다루기(값과 리터럴, 변수, 식별자, 타입)              | [day01](https://choiyuran.notion.site/c94db3f3498d4c479512eb8b1be83cf0?pvs=4)|
-|  2일차  | 데이터 조회(SELECT)    | [day02]() |
+|  2일차  | 함수, 제어구문, 객체  | [day02](https://choiyuran.notion.site/abfefed23c654592a842e4e2d1325e8d?pvs=4) |
 |  3일차  | 객체 지향 프로그래밍(OOP) Part1  | [day03](https://github.com/choiyuran/study_java/tree/main/week02/oop) |
 |  4일차  | 집계함수(SUM, MAX, MIN, AVG, COUNT) / 중복 제거(DISTINCT)      | [day04](https://choiyuran.notion.site/SUM-MAX-MIN-AVG-COUNT-DISTINCT-4dcbf0e256d74631880809c8014f74a4?pvs=4) |
 |  5일차  | 객체 지향 프로그래밍(OOP) Part2 | [day05](https://github.com/choiyuran/study_java/tree/main/week03/oop2)  |
