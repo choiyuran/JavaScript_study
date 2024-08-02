@@ -16,5 +16,5 @@
 |  3일차  | 배열  | [day03](https://choiyuran.notion.site/4f6b6219ce9a4d3c9a0dfd723787bf32?pvs=4) |
 |  4일차  | 배열(2)   | [day04](https://choiyuran.notion.site/2-8edf489f508a47509fc508ff6d4d1ab7?pvs=4) |
 |  5일차  | 값 더 알아보기 | [day05](https://choiyuran.notion.site/b495213fca10401b8acd9242784e401a?pvs=4)  |
-|  6일차  |  GROUP BY~HAVING                    | [day06](https://choiyuran.notion.site/GROUP-BY-HAVING-9376c8274f6e431abff499fffe29bb4f?pvs=4) |
+|  6일차  | 함수 더 알아보기 | [day06](https://choiyuran.notion.site/GROUP-BY-HAVING-9376c8274f6e431abff499fffe29bb4f?pvs=4) |
 |  7일차  |  예외처리/java.lang패키지와 유용한 클래스   | [day07](https://choiyuran.notion.site/java-lang-90c6df571cb3498a8a3ffd95dfc6a546?pvs=4) |
