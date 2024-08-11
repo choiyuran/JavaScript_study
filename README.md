@@ -17,4 +17,4 @@
 |  4일차  | 배열(2)   | [day04](https://choiyuran.notion.site/2-8edf489f508a47509fc508ff6d4d1ab7?pvs=4) |
 |  5일차  | 값 더 알아보기 | [day05](https://choiyuran.notion.site/b495213fca10401b8acd9242784e401a?pvs=4)  |
 |  6일차  | 함수 더 알아보기 | [day06](https://choiyuran.notion.site/52b373060462482bbf01b1a58b410e5e?pvs=4) |
-|  7일차  | 함수형 프로그래밍 & 객체 더 알아보기 | [함수형 프로그래밍](https://choiyuran.notion.site/d589a792272746088cfbc8ec59aba52b?pvs=4) |
+|  7일차  | 함수형 프로그래밍 & 객체 더 알아보기 | [함수형](https://choiyuran.notion.site/d589a792272746088cfbc8ec59aba52b?pvs=4) |
