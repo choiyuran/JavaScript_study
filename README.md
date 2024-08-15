@@ -18,3 +18,4 @@
 |  5일차  | 값 더 알아보기 | [day05](https://choiyuran.notion.site/b495213fca10401b8acd9242784e401a?pvs=4)  |
 |  6일차  | 함수 더 알아보기 | [day06](https://choiyuran.notion.site/52b373060462482bbf01b1a58b410e5e?pvs=4) |
 |  7일차  | 함수형 프로그래밍 & 객체 더 알아보기 | [함수형](https://choiyuran.notion.site/d589a792272746088cfbc8ec59aba52b?pvs=4) / [객체](https://choiyuran.notion.site/d2700df85cb04d448d3d198e247ad746?pvs=4)|
+|  8일차  | 객체 더 알아보기(2) | [객체](https://choiyuran.notion.site/d589a792272746088cfbc8ec59aba52b?pvs=4) /
